@@ -12,6 +12,7 @@
 软件均仅用于学习交流，请勿用于任何商业用途！感谢大家！
 ## :dolphin:介绍
 该项目为[淘宝网](https://www.taobao.com/)商品信息的定向爬虫
+- 项目介绍:通过淘宝搜索关键字爬取指定的商品信息
 - 爬取方式:通过Python的Selenium自动化测试库以及配合Phantomjs无头浏览器
 - 爬虫文件:运行Spiders目录下的spider.py
 - 配置文件:运行前修改Spiders目录下的config.py,其中的KEYWORD为你要搜索商品名称的关键字,以及mongodb相关配置
