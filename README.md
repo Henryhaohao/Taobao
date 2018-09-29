@@ -25,6 +25,7 @@ pip3 install -r requirements.txt
 ## :dolphin:运行截图
 > - 运行
 ![enter image description here](Pic/run.png)
+
 > - 数据结构
 ![enter image description here](Pic/data.png)
 
